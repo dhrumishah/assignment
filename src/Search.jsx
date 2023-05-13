@@ -1,7 +1,6 @@
 import React from "react";
 import Filter from "./assets/filter.svg";
 import Circle from "./assets/circle.svg";
-
 const Search = () => {
   return (
     <div>
